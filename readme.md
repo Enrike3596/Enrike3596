@@ -64,7 +64,7 @@ Soy un desarrollador apasionado por construir soluciones robustas y escalables. 
 
 ## 🚀 Proyectos Destacados
 
-### 🏪 [Nombre del Proyecto 1](https://github.com/TU_USERNAME/proyecto1)
+### 🏪 Landing--antoJARTE (https://github.com/Enrike3596/Landing--antoJARTE.git)
 > Sistema de gestión desarrollado con **Spring Boot + MySQL + Bootstrap**
 - CRUD completo con autenticación JWT
 - API REST documentada con Swagger
