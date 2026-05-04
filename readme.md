@@ -65,20 +65,21 @@ Soy un desarrollador apasionado por construir soluciones robustas y escalables. 
 ## 🚀 Proyectos Destacados
 
 ### 🏪 [Landing--antoJARTE](https://github.com/Enrike3596/Landing--antoJARTE.git)
-> Pagina web Para una empresa de miniDonuts
-> Realizada con HTML - TAILWIND Y JAVASCRIPT
-
-### 📋 [Nombre del Proyecto 2](https://github.com/TU_USERNAME/proyecto2)
-> Aplicación web con **Spring MVC + Thymeleaf + CSS**
-- Gestión de usuarios y roles con Spring Security
-- Integración con base de datos PostgreSQL
-- Despliegue con Docker
-
-### 🌐 [Nombre del Proyecto 3](https://github.com/TU_USERNAME/proyecto3)
-> Landing page con **HTML5 + CSS3 + Bootstrap 5**
+> Landing page con **HTML5 + TAILWIND + JAVASCRIPT**
 - Diseño totalmente responsive
 - Formularios de contacto funcionales
-- Animaciones con CSS puro
+
+### 📋 [Urbansys](https://github.com/Enrike3596/UrbanSys.git)
+> Aplicación web con **Spring BOOT**
+- Gestión de usuarios y roles con Spring Security
+- Integración con base de datos PostgreSQL
+- Frontend con VUE
+
+### 🌐 [dontologia](https://github.com/Enrike3596/Odontologia.git)
+> Aplicación web con **Spring BOOT**
+- Gestión de usuarios y roles con Spring Security
+- Integración con base de datos PostgreSQL
+- Temlates HTML + CSS + JAVASCRIPT
 
 ---
 
